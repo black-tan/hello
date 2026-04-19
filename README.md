@@ -19,7 +19,7 @@
 ```
 
 <summary>🚀 <strong>KEYWORDS</strong></summary>
-```yaml
+```diff
 status: ✅ ONLINE
 uptime: 15+ years
 location: Seoul, South Korea
