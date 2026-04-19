@@ -46,7 +46,7 @@ technical_skills:
 ```
 
 ![Domain](https://img.shields.io/badge/🏦_Domain-FinTech_·_Financial-58a6ff?style=for-the-badge&labelColor=161b22)
-![Global](https://img.shields.io/badge/🌏_Global-JP_·_TW_·_TH-58a6ff?style=for-the-badge&labelColor=161b22)
+![Global](https://img.shields.io/badge/🌏_Global-JP_·_TW_·_TH_·_ID-58a6ff?style=for-the-badge&labelColor=161b22)
 ![Experience](https://img.shields.io/badge/⚡_Experience-15%2B_Years-58a6ff?style=for-the-badge&labelColor=161b22)
 ![Traffic](https://img.shields.io/badge/🚀_Traffic-대용량_처리-58a6ff?style=for-the-badge&labelColor=161b22)
 ![Realtime](https://img.shields.io/badge/💸_Realtime-금융거래_시스템-58a6ff?style=for-the-badge&labelColor=161b22)
