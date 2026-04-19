@@ -17,7 +17,7 @@
 + FinTech & Financial Domain Specialist
 ! 15+ Years Experience
 ```
-<details>
+
 <summary>🚀 <strong>KEYWORDS</strong></summary>
 ```yaml
 status: ✅ ONLINE
@@ -44,7 +44,7 @@ technical_skills:
   - Monitoring & Observability
 
 ```
-</details>
+
 ![Domain](https://img.shields.io/badge/🏦_Domain-FinTech_·_Financial-58a6ff?style=for-the-badge&labelColor=161b22)
 ![Global](https://img.shields.io/badge/🌏_Global-JP_·_TW_·_TH-58a6ff?style=for-the-badge&labelColor=161b22)
 ![Experience](https://img.shields.io/badge/⚡_Experience-15%2B_Years-58a6ff?style=for-the-badge&labelColor=161b22)
