@@ -88,7 +88,7 @@ technical_skills:
   │
 * 🟤 2021.02 ~ 2021.05    신한카드 페이판 리부트
   │                       💳 온라인/배치 F/W 이행
-  │                       📅 Duration: 3개월
+  │                       📅 Duration: 4개월
   │
 * 🟠 2018.12 ~ 2020.10    한국은행 차세대 회계결제시스템
   │                       🏦 배치 F/W 이행 (제안~안정화)
@@ -100,31 +100,31 @@ technical_skills:
   │
 * 🟢 2016.04 ~ 2016.10    신한카드 SM
   │                       💳 채권 서비스 운영
-  │                       📅 Duration: 6개월
+  │                       📅 Duration: 7개월
   │
 * 🔵 2015.02 ~ 2016.02    MG손해보험 차세대
   │                       🛡️ 자동차보험 서비스 개발
-  │                       📅 Duration: 1년
+  │                       📅 Duration: 1년 1개월
   │
 * 🟣 2014.09 ~ 2015.01    NH농협손해보험 방카슈랑스
   │                       🏛️ 대외기관 전문 개발
-  │                       📅 Duration: 4개월
+  │                       📅 Duration: 5개월
   │
 * ⚪ 2013.10 ~ 2014.06    엔지니어링공제조합 차세대
   │                       🔧 시스템 공통 서비스 개발
-  │                       📅 Duration: 8개월
+  │                       📅 Duration: 9개월
   │
 * 🌏 2013.01 ~ 2013.07    바하나증권 (인도네시아)
   │                       📊 회계·시세 (해외 프로젝트) 시스템 개발
-  │                       📅 Duration: 6개월
+  │                       📅 Duration: 7개월
   │
 * 🔴 2012.02 ~ 2012.11    신한아이타스 ETS 재구축
   │                       📈 FIX · 체결 시스템 개발
-  │                       📅 Duration: 9개월
+  │                       📅 Duration: 10개월
   │
 * ⚫ 2011.07 ~ 2012.01    교보증권 차세대
                           📊 계좌 · IC카드 발급 서비스 개발
-                          📅 Duration: 6개월
+                          📅 Duration: 7개월
 ```
 
 🏷️ TECH BADGES
@@ -177,7 +177,7 @@ technical_skills:
 
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
-  Period: 2021.02 ~ 2021.05 (3M)                                 
+  Period: 2021.02 ~ 2021.05 (4M)                                 
   Role: Senior Developer                                         
   Domain: 카드 채권                                             
                                                                 
@@ -223,7 +223,7 @@ technical_skills:
 
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
-  Period: 2016.04 ~ 2016.10 (6M)                                 
+  Period: 2016.04 ~ 2016.10 (7M)                                 
   Role: Developer                                                
   Domain: Card Collection System                                 
                                                                 
@@ -238,7 +238,7 @@ technical_skills:
   
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
-  Period: 2015.02 ~ 2016.02 (1Y)                                 
+  Period: 2015.02 ~ 2016.02 (1Y 1M)                                 
   Role: Developer                                                
   Domain: 자동차보험 (기타보종)                                   
                                                                 
@@ -253,7 +253,7 @@ technical_skills:
 
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
-  Period: 2014.09 ~ 2015.01 (4M)                                 
+  Period: 2014.09 ~ 2015.01 (5M)                                 
   Role: Developer                                                
   Domain: 방카슈랑스                                            
                                                                 
@@ -268,7 +268,7 @@ technical_skills:
 
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
-  Period: 2013.10 ~ 2014.06 (8M)                                 
+  Period: 2013.10 ~ 2014.06 (9M)                                 
   Role: Developer                                                
   Domain: 공제 조합                                              
                                                                 
@@ -284,7 +284,7 @@ technical_skills:
 
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
-  Period: 2013.01 ~ 2013.07 (6M)                                 
+  Period: 2013.01 ~ 2013.07 (7M)                                 
   Role: Developer                               
   Domain: Securities Trading System                              
                                                                 
@@ -299,7 +299,7 @@ technical_skills:
 
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
-  Period: 2012.02 ~ 2012.11 (9M)                                 
+  Period: 2012.02 ~ 2012.11 (10M)                                 
   Role: Developer                                                
   Domain: 사무수탁                                              
                                                                 
@@ -315,7 +315,7 @@ technical_skills:
 
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
-  Period: 2011.07 ~ 2012.01 (6M)                                 
+  Period: 2011.07 ~ 2012.01 (7M)                                 
   Role: Developer                                         
   Domain: 증권 트레이딩                                           
                                                                 
