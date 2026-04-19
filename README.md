@@ -15,7 +15,7 @@
 ```diff
 + Senior Backend Engineer
 + FinTech & Financial Domain Specialist
-! 15+ Years Experience
++ 15+ Years Experience
 ```
 
 KEYWORDS
@@ -126,8 +126,11 @@ technical_skills:
                           📊 계좌 · IC카드 발급 서비스 개발
                           📅 Duration: 6개월
 ```
+
 ⚙️ TECHNOLOGY STACK
+
 🏷️ TECH BADGES
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=161b22)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=161b22)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=161b22)
@@ -137,8 +140,10 @@ technical_skills:
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white&labelColor=161b22)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=161b22)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-bc8cff?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=161b22)
+
 📁 PROJECT PORTFOLIO
-🟢 LINE Pay Plus `[2023.05 ~ present]`
+
+<summary><h3>🟢 LINE Pay Plus </strong> <code>[2023.05 ~ present]</code></h3>
 
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
@@ -155,7 +160,8 @@ technical_skills:
 └────────────────────────────────────────────────────────────────┘
 ```
 ---
-🔵 LINE Bank Japan `[2021.05 ~ 2023.05]`
+<summary><h3>🔵 LINE Bank Japan </strong> <code>[2021.05 ~ 2023.05]</code></h3>
+  
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
   Period: 2021.05 ~ 2023.05 (1Y 8M)                              
@@ -169,7 +175,8 @@ technical_skills:
 └────────────────────────────────────────────────────────────────┘
 ```
 ---
-🟤 신한카드 페이판 리부트 `[2021.02 ~ 2021.05]`
+<summary><h3>🟤 신한카드 페이판 리부트 </strong> <code>[2021.02 ~ 2021.05]</code></h3>
+
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
   Period: 2021.02 ~ 2021.05 (3M)                                 
@@ -179,11 +186,12 @@ technical_skills:
   + 온라인/배치 Framework 이행 프로젝트                         
   + 성능 최적화 및 유지보수성 향상                              
                                                                 
-  Stack: Java · DevOn Framework                                
+  Stack: DevOn Framework                                
 └────────────────────────────────────────────────────────────────┘
 ```
 ---
-🟠 한국은행 차세대 회계결제시스템 `[2018.12 ~ 2020.10]`
+<summary><h3>🟠 <strong>한국은행 차세대 회계결제시스템</strong> <code>[2018.12 ~ 2020.10]</code></h3>
+  
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
   Period: 2018.12 ~ 2020.10 (1Y 10M)                             
@@ -194,12 +202,12 @@ technical_skills:
   + 배치 Framework 개발 및 구현                                
   + 제안부터 안정화까지 전 단계 참여                             
                                                                 
-  Stack: J-Jobs Framework · Batch Processing                   
+  Stack: DevOn Framework · J-Jobs Framework                
 └────────────────────────────────────────────────────────────────┘
 ```
 ---
-<details>
-<summary><h3>🟡 <strong>LG 정도경영포털 운영</strong> <code>[2016.11 ~ 2018.07]</code></h3></summary>
+<summary><h3>🟡 <strong>LG 정도경영포털 운영</strong> <code>[2016.11 ~ 2018.07]</code></h3>
+  
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
   Period: 2016.11 ~ 2018.07 (1Y 8M)                              
@@ -212,10 +220,9 @@ technical_skills:
   Stack: Java · Spring Framework · Oracle                      
 └────────────────────────────────────────────────────────────────┘
 ```
-</details>
 ---
-<details>
 <summary><h3>🟢 <strong>신한카드 SM</strong> <code>[2016.04 ~ 2016.10]</code></h3></summary>
+
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
   Period: 2016.04 ~ 2016.10 (6M)                                 
@@ -228,10 +235,9 @@ technical_skills:
   Stack: Java · DevOn Framework · Oracle                       
 └────────────────────────────────────────────────────────────────┘
 ```
-</details>
 ---
-<details>
 <summary><h3>🔵 <strong>MG손해보험 차세대</strong> <code>[2015.02 ~ 2016.02]</code></h3></summary>
+  
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
   Period: 2015.02 ~ 2016.02 (1Y)                                 
@@ -239,15 +245,14 @@ technical_skills:
   Domain: 자동차보험 (기타보종)                                   
                                                                 
   + 자동차보험 차세대 시스템 구축                                
-  + 가입, 청구, 계약, 변경, 갱신 개발                            
+  + 가입, 청구, 계약, 변경, 갱신 업무 개발                            
                                                                 
   Stack: Java · DevOn Framework · XPlatform · OZ Report        
 └────────────────────────────────────────────────────────────────┘
 ```
-</details>
 ---
-<details>
 <summary><h3>🟣 <strong>NH농협손해보험 방카슈랑스</strong> <code>[2014.09 ~ 2015.01]</code></h3></summary>
+
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
   Period: 2014.09 ~ 2015.01 (4M)                                 
@@ -260,10 +265,9 @@ technical_skills:
   Stack: Java · DevOn Framework                                
 └────────────────────────────────────────────────────────────────┘
 ```
-</details>
 ---
-<details>
 <summary><h3>⚪ <strong>엔지니어링공제조합 차세대</strong> <code>[2013.10 ~ 2014.06]</code></h3></summary>
+
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
   Period: 2013.10 ~ 2014.06 (8M)                                 
@@ -277,27 +281,24 @@ technical_skills:
   Stack: Spring Framework · WebSquare Framework · OZ Report    
 └────────────────────────────────────────────────────────────────┘
 ```
-</details>
 ---
-<details>
 <summary><h3>🌏 <strong>바하나증권 (인도네시아)</strong> <code>[2013.01 ~ 2013.07]</code></h3></summary>
+
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
   Period: 2013.01 ~ 2013.07 (6M)                                 
-  Role: Overseas Project Developer                               
+  Role: Developer                               
   Domain: Securities Trading System                              
                                                                 
-  + 해외 프로젝트 (인도네시아 자카르타)                          
-  + 회계·시세 시스템 개발                                      
-  + 증권 거래 시스템 구축                                        
+  + 해외 증권 거래 시스템 구축 프로젝트 (인도네시아)                          
+  + 회계·시세 시스템 개발                                   
                                                                 
-  Stack: C · C++ · DevOn Framework · Tibero DB                 
+  Stack: C · C++ · DevOn Framework · Oracle · Tibero DB                 
 └────────────────────────────────────────────────────────────────┘
 ```
-</details>
 ---
-<details>
 <summary><h3>🔴 <strong>신한아이타스 ETS 재구축</strong> <code>[2012.02 ~ 2012.11]</code></h3></summary>
+
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
   Period: 2012.02 ~ 2012.11 (9M)                                 
@@ -311,14 +312,13 @@ technical_skills:
   Stack: C · DevOn Framework · Oracle                          
 └────────────────────────────────────────────────────────────────┘
 ```
-</details>
 ---
-<details>
 <summary><h3>⚫ <strong>교보증권 차세대</strong> <code>[2011.07 ~ 2012.01]</code></h3></summary>
+
 ```bash
 ┌─ Project Info ─────────────────────────────────────────────────┐
   Period: 2011.07 ~ 2012.01 (6M)                                 
-  Role: Junior Developer                                         
+  Role: Developer                                         
   Domain: 증권 트레이딩                                           
                                                                 
   + 증권사 차세대 시스템 구축                                    
@@ -327,7 +327,6 @@ technical_skills:
   Stack: C · DevOn Framework · Oracle                          
 └────────────────────────────────────────────────────────────────┘
 ```
-</details>
 🎯 CORE COMPETENCIES
 ```yaml
 competency_matrix:
@@ -356,11 +355,15 @@ competency_matrix:
     status: "🏗️ DEVOPS"
 ```
 🔗 CONNECTION ENDPOINTS
+
 ![Gmail](https://img.shields.io/badge/📧_GMAIL-na062882%40gmail.com-39d353?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)
 ![Phone](https://img.shields.io/badge/📞_CALL-010--4816--4045-58a6ff?style=for-the-badge&logo=phone&logoColor=white&labelColor=0d1117)
+
 📱 QR CODE
+
 ![GitHub QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/black-tan/hello)
 ---
+
 ```bash
 user@terminal:~$ echo "감사합니다"
 ```
