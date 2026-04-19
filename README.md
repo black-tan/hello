@@ -18,7 +18,8 @@
 ! 15+ Years Experience
 ```
 
-<summary>🚀 <strong>KEYWORDS</strong></summary>
+KEYWORDS
+
 ```diff
 status: ✅ ONLINE
 uptime: 15+ years
@@ -42,7 +43,6 @@ technical_skills:
   - API Gateway & MSA Pattern
   - Container Orchestration (K8s)
   - Monitoring & Observability
-
 ```
 
 ![Domain](https://img.shields.io/badge/🏦_Domain-FinTech_·_Financial-58a6ff?style=for-the-badge&labelColor=161b22)
